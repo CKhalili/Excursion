@@ -15,7 +15,6 @@ h1 {
   font size: 16px;
 }
 .travel-guide {
-
   font-weight: 300;
   font-size: 40px;
 }
@@ -24,7 +23,7 @@ h1 {
   font-size: 21px;
   color: Gray;
 }
-.excursion {
-  text-align: right;
+.excursion{
+  text-align: right !important;
   color: Gray;
 }
